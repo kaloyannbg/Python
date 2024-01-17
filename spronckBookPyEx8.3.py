@@ -1,4 +1,4 @@
-
+# solution by eval
 
 def likeGregorySeries(times) :
     
